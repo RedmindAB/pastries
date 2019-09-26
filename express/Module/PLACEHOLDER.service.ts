@@ -1,5 +1,5 @@
 import * as PLACEHOLDERRepo from './PLACEHOLDER.repository'
 
-export async function getPLACEHOLDER() {
-  return PLACEHOLDERRepo.getPLACEHOLDER()
+export async function getPASCAL_PLACEHOLDER() {
+  return PLACEHOLDERRepo.getPASCAL_PLACEHOLDER()
 }
