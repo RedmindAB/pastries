@@ -1,3 +1,3 @@
-export async function getPLACEHOLDER() {
+export async function getPASCAL_PLACEHOLDER() {
   return 'PLACEHOLDER'
 }
