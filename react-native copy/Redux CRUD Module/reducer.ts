@@ -1,4 +1,4 @@
-import { requestsReducer } from 'redux-saga-requests'
+import { requestsReducer } from './node_modules/redux-saga-requests'
 import {
   FETCH_UPPER_PLACEHOLDER,
   CREATE_UPPER_PLACEHOLDER,
